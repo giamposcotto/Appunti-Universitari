@@ -19,7 +19,7 @@ A comprehensive collection of university lecture notes, study materials, and cou
 | **Teoria e Progetto delle Costruzioni in Acciaio** | A.A. 2022/23 | Steel Structures Design | 🇮🇹 Italian |
 | **Teoria e Progetto di Ponti** | A.A. 2022/23 | Bridge Engineering | 🇮🇹 Italian |
 | **Opere di Sostegno** | A.A. 2022/23 | Earth Retaining Structures | 🇮🇹 Italian |
-| **Tunnels and Underground Structures** | A.A. 2022/23 | Tunnelling & Geotechnical Design | 🇮🇹 Italian |
+| **Tunnels and Underground Structures** | A.A. 2022/23 | Tunnelling & Geotechnical Design | 🇬🇧 English |
 | **Teoria e Progetto delle Costruzioni in Calcestruzzo Armato** | A.A. 2021/22 | Advanced RC Structures Design | 🇮🇹 Italian |
 | **Dinamica delle Costruzioni ed Ingegneria Sismica** | A.A. 2021/22 | Structural Dynamics & Earthquake Eng. | 🇮🇹 Italian |
 | **Fondazioni** | A.A. 2021/22 | Foundation Engineering | 🇮🇹 Italian |
